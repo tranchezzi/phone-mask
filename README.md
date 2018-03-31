@@ -7,5 +7,6 @@ Project - Input phone Mask
 * Javascript (ES6)
 * HTML 5 
 * SASS
+* Regular expression
 
 Demo: http://www.tranchezzi.com.br/phone-mask/
